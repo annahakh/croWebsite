@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://crowconsulting.am/sitemap.xml

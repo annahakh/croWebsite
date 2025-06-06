@@ -1,0 +1,14 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "crowconsulting.am",
+    "description": "",
+    "home_page_url": "https://crowconsulting.am",
+    "feed_url": "https://crowconsulting.am/feed.json",
+    "user_comment": "",
+    "icon": "https://crowconsulting.am/media/website/crowBLACK.png",
+    "author": {
+        "name": "Anna Hakhnazaryan"
+    },
+    "items": [
+    ]
+}
